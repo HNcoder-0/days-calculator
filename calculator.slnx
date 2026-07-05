@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="calculator/calculator.vcxproj" Id="7f4e8cd3-03d3-4b0a-95d9-e38760f1efe4" />
+</Solution>
